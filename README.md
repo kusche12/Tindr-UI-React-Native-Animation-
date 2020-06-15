@@ -10,3 +10,6 @@ Play around with this UI yourself in just a few easy steps!
 3. Start up the react-native / expo workspace
 `npm start`
 4. Happy hacking!
+
+
+This mobile-application UI was made alongside Stephen Grider's course *React Native: Advanced Concepts* [Udemy course.](https://www.udemy.com/course/react-native-advanced/)
